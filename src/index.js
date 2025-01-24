@@ -1,3 +1,4 @@
+   //from the discord.js guide
    // Require the necessary discord.js classes
    // if it bugs check that you run it form the root or whereever the .env file is
    const { Client, Events, GatewayIntentBits } = require('discord.js');
